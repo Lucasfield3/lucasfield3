@@ -8,15 +8,15 @@
 
 <div style='display: inline-block'><br>
   <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg' />
-  <img align='center' alt='typescript' height='30' width='40' src='https://symbols.getvecta.com/stencil_92/58_pug-icon.f03a1e640b.svg' />
+  <img align='center' alt='javascript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' />
+  <img align='center' alt='css3' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' />
+  <img align='center' alt='html5' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg' />
+  <img align='center' alt='react' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' />
+  <img align='center' alt='nextjs' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' />
+  <img align='center' alt='sass' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' />
+  <img align='center' alt='java' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' />
+  <img align='center' alt='ionic' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg' />
+  <img align='center' alt='pug' height='30' width='40' src='https://symbols.getvecta.com/stencil_92/58_pug-icon.f03a1e640b.svg' />
 </div>
 
  ##
