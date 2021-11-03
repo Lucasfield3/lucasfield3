@@ -23,7 +23,6 @@
 
 <div>
   <a href='https://www.linkedin.com/in/lucas-rocha-976b95150/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank' /></a>
-  <a href='#'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'  title='lucasfi3ld3@gmail.com'/></a>
 </div>
 
 
