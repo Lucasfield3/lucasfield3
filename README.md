@@ -16,7 +16,6 @@
   <img align='center' alt='sass' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' />
   <img align='center' alt='java' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' />
   <img align='center' alt='ionic' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg' />
-  <img align='center' alt='pug' height='30' width='40' src='https://symbols.getvecta.com/stencil_92/58_pug-icon.f03a1e640b.svg' />
 </div>
 
  ##
