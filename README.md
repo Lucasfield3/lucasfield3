@@ -1,4 +1,6 @@
-### Hi, i'm Lucas and this is my status!
+### Hi, i'm Lucas!
+
+I'm currently working in some personal projects and gaining experience with projects that i would make in the job market or make me been able to deliver free lancer jobs.
 
 <div>
   <a href='https://github.com/Lucasfield3'></a>
