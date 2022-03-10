@@ -21,6 +21,7 @@ I'm currently working in some personal projects and gaining experience with proj
   <img align='center' alt='prisma' height='30' width='55' src='https://cdn.worldvectorlogo.com/logos/prisma-2.svg' />
   <img align='center' alt='typeorm' height='30' width='55' src='https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png' />
   <img align='center' alt='heroku' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg' />
+  <img align='center' alt='postgresql' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg' />
 </div>
 
  ##
