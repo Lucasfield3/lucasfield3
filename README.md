@@ -22,6 +22,8 @@ I'm currently working in some personal projects and gaining experience with proj
   <img align='center' alt='typeorm' height='30' width='55' src='https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png' />
   <img align='center' alt='heroku' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original.svg' />
   <img align='center' alt='postgresql' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg' />
+   <img align='center' alt='nestjs' height='60' width='60' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain-wordmark.svg' />
+  <img align='center' alt='docker' height='40' width='40' src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg' />
 </div>
 
  ##
